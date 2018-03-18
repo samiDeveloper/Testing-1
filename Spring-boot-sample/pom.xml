@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>Spring-boot-sample</name>
-	<description>Demo project for Spring Boot9 with Jacoco plugin</description>
+	<description>Demo project for Spring Boot9 with Jacoco plugin </description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
